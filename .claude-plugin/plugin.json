@@ -1,0 +1,9 @@
+{
+  "name": "transcripts",
+  "version": "0.1.0",
+  "description": "Push Claude Code session transcripts to a private GitHub repo named <login>-my-brain.",
+  "author": {
+    "name": "Alessandro"
+  },
+  "repository": "https://github.com/alexlipa91/my-brain"
+}

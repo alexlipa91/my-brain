@@ -1,0 +1,14 @@
+{
+  "name": "my-brain",
+  "description": "Plugins for Alessandro's Claude Code setup.",
+  "owner": {
+    "name": "Alessandro"
+  },
+  "plugins": [
+    {
+      "name": "transcripts",
+      "source": "./",
+      "description": "Push Claude Code session transcripts to a private GitHub repo named <login>-my-brain."
+    }
+  ]
+}
